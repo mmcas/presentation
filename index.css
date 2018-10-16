@@ -1,4 +1,4 @@
-h1 {
+h1, h4 {
   font-family: helvetica;
 }
 
@@ -8,4 +8,10 @@ body {
 
 img {
   border-radius: 50%;
+}
+
+
+.maintitle, .parag {
+  display: flex;
+  justify-content: center;
 }
